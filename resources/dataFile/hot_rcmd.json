@@ -1,0 +1,98 @@
+{
+    "message": "",
+    "code": 0,
+    "data": {
+        "items": [
+            {
+                "card_type": "feed_banner",
+                "images": [
+                    "http://i0.hdslb.com/bfs/archive/69737852c0e5316a2f0e5f81e0100d9156f0ae46.jpg",
+                    "http://i0.hdslb.com/bfs/archive/dce8a95afe99f66ec54b67e8694fe89fffa9cdf8.png",
+                    "http://i0.hdslb.com/bfs/archive/2805e6d3d131d7980cadab237568d98eb78f5dee.jpg"
+                ],
+                "titles": [
+                    "记我在新疆夜里画圈圈的日子",
+                    "夏の落基山班芙二回目",
+                    "欧洲",
+                    "Love Star Sunshine彩虹天堂金秋行摄",
+                    "女汉子与小汉子从东北到西南",
+                ]
+            },
+            {
+                "card_type": "challenge",
+                "title": "明明明明明白白白很喜欢他，但他不说，请问，明明喜欢他吗",
+                "content": "明明白白我的心，渴望一段真感情",
+                "number": 1734,
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "rank": "1",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "content": "在刚刚过去的520，面对票圈一波又一波的秀恩爱，熊内心毫无波动。\n社会人才过520。\n像熊这种小孩纸当然是要过六一的啊。\n你问我六一都干了什么，当然是去影院见我的“老朋友”了啊",
+                "cover": "https://upload-images.jianshu.io/upload_images/2146558-67c77afa7aa83d18.jpg@!1080?imageMogr2/auto-orient/strip%7CimageView2/2/w/640",
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "rank": "2",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "content": "在刚刚过去的520，面对票圈一波又一波的秀恩爱，熊内心毫无波动。\n社会人才过520。\n像熊这种小孩纸当然是要过六一的啊。\n你问我六一都干了什么，当然是去影院见我的“老朋友”了啊",
+                "replys": [
+                    {
+                        "author": "戏作弄人",
+                        "content": "大熊是我心里永远的一个留念"
+                    },
+                    {
+                        "author": "秦风5258",
+                        "content": "大雄会永远陪伴多啦a梦，可是已经长大了"
+                    }
+                ],
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "rank": "3",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "content": "在刚刚过去的520，面对票圈一波又一波的秀恩爱，熊内心毫无波动。\n社会人才过520。\n像熊这种小孩纸当然是要过六一的啊。\n你问我六一都干了什么，当然是去影院见我的“老朋友”了啊",
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "replys": [
+                    {
+                        "author": "戏作弄人",
+                        "content": "大熊是我心里永远的一个留念"
+                    },
+                    {
+                        "author": "秦风5258",
+                        "content": "大雄会永远陪伴多啦a梦，可是已经长大了"
+                    },
+                    {
+                        "author": "秦风5258",
+                        "content": "大雄会永远陪伴多啦a梦，可是已经长大了"
+                    }
+                ],
+                "uri": "CDDiscussionDetailVC/234231"
+            },
+            {
+                "card_type": "feed_post",
+                "author": "轻轻如风葵",
+                "title": "一种普适的读书笔记法|《如何有效阅读一本书》书评",
+                "cover": "https://upload-images.jianshu.io/upload_images/2146558-67c77afa7aa83d18.jpg@!1080?imageMogr2/auto-orient/strip%7CimageView2/2/w/640",
+                "uri": "CDDiscussionDetailVC/234231"
+            }
+        ]
+    }
+}

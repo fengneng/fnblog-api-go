@@ -1,0 +1,98 @@
+{
+    "message": "",
+    "code": 0,
+    "data": {
+        "items": [
+            {
+                "title": "关注",
+                "more": "全部",
+                "uri": "CDPersonListVC",
+                "items": [
+                    {
+                        "card_type": "coverage",
+                        "items": [
+                            {
+                                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid:2695655&size:small",
+                                "name": "贝爷2号",
+                                "desc1": "擅长摸鱼、划水",
+                                "desc2": "粉丝 10W+",
+                                "uri": "CDUserProfileVC"
+                            },
+                            {
+                                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid:2695655&size:small",
+                                "name": "贝爷2号",
+                                "desc1": "擅长摸鱼、划水",
+                                "desc2": "粉丝 10W+",
+                                "uri": "CDUserProfileVC"
+                            },
+                            {
+                                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid:2695655&size:small",
+                                "name": "贝爷2号",
+                                "desc1": "擅长摸鱼、划水",
+                                "desc2": "粉丝 10W+",
+                                "uri": "CDUserProfileVC"
+                            },
+                            {
+                                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid:2695655&size:small",
+                                "name": "贝爷2号",
+                                "desc1": "擅长摸鱼、划水",
+                                "desc2": "粉丝 10W+",
+                                "uri": "CDUserProfileVC"
+                            }
+                        ]
+                    },
+                ]
+            },
+            {
+                "title": "动态",
+                "items": [
+                    {
+                        "card_type": "moment",
+                        "avatar": "https://pic2.zhimg.com/v2-eab7659ee462d4602a60b934a8ae875f_xl.jpg",
+                        "name": "窃 格瓦拉",
+                        "time": "7月5日",
+                        "action": "发表文章",
+                        "title": "打工这方面......打工是不可能打工的 这辈子不可能打工的，做生意又不会做，就是偷这种东西，才能维持得了生活这样子.",
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "card_type": "moment",
+                        "avatar": "https://pic2.zhimg.com/v2-eab7659ee462d4602a60b934a8ae875f_xl.jpg",
+                        "name": "窃 格瓦拉",
+                        "time": "7月5日",
+                        "action": "发表文章",
+                        "title": "打工这方面......打工是不可能打工的 这辈子不可能打工的，做生意又不会做，就是偷这种东西，才能维持得了生活这样子.",
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "card_type": "moment",
+                        "avatar": "https://pic2.zhimg.com/v2-eab7659ee462d4602a60b934a8ae875f_xl.jpg",
+                        "name": "窃 格瓦拉",
+                        "time": "7月5日",
+                        "action": "发表文章",
+                        "title": "打工这方面......打工是不可能打工的 这辈子不可能打工的，做生意又不会做，就是偷这种东西，才能维持得了生活这样子.",
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "card_type": "moment",
+                        "avatar": "https://pic2.zhimg.com/v2-eab7659ee462d4602a60b934a8ae875f_xl.jpg",
+                        "name": "窃 格瓦拉",
+                        "time": "7月5日",
+                        "action": "发表文章",
+                        "title": "打工这方面......打工是不可能打工的 这辈子不可能打工的，做生意又不会做，就是偷这种东西，才能维持得了生活这样子.",
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "card_type": "moment",
+                        "avatar": "https://pic2.zhimg.com/v2-eab7659ee462d4602a60b934a8ae875f_xl.jpg",
+                        "name": "窃 格瓦拉",
+                        "time": "7月5日",
+                        "action": "发表文章",
+                        "title": "打工这方面......打工是不可能打工的 这辈子不可能打工的，做生意又不会做，就是偷这种东西，才能维持得了生活这样子.",
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                ]
+            },
+        ]
+    }
+}

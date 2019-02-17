@@ -1,0 +1,66 @@
+{
+    "message": "",
+    "code": 0,
+    "data": {
+        "asker": {
+            "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+            "name": "墨_辰",
+            "title": "今天看到新闻 有人被骗十几万 请做马甲应用的兄弟们高抬贵手",
+            "content": "当你们在骂假疫苗，假奶粉的时候，有没有想过，弄个假的应用会有什么后果。苹果花了很大精力在维护他们的商店。而程序猿们，请对得起职业操守。 维护社会和谐从我做起。",
+            "time": " 2018-08-03",
+            "watch_num": 491
+        },
+        "answers": [
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "zuyu",
+                "time": "2018-08-04 ",
+                "floor": 2,
+                "content": "请做马甲包的兄弟收敛一下 "
+            },
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "a609980487",
+                "time": "2018-08-03",
+                "floor": 3,
+                "content": "虽然是不对，但不是主因。不然照这个说法，在p2p公司的开发人员就该被刨祖坟了。"
+            },
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "鹿丸眼中的云",
+                "time": " 2018-08-07",
+                "floor": 4,
+                "content": "存在虽然不一定合理,  但是说明其肯定有一定的市场....\n有什么样的市场, 那就意味着有什么样的用户..\n有利益就肯定有人会去做\n专业做马甲包的人不做任何评论\n\n但是如果你只是普通公司, 的一名普通的技术人员, 其实大家都是混口饭吃\n如果老板说让你打个新包, 传上去审核, 你是走人呢? 还是打一个新包呢? ",
+                "leader_name": "绘色绘色",
+                "leader_uri": "",
+                "comments_num": 1,
+                "comments_uri": ""
+            },
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "侠客不带刀",
+                "time": "2018-08-07",
+                "floor": 5,
+                "content": "几个月工资不如人家上一个马甲，你说有人做没？ "
+            },
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "侠客不带刀",
+                "time": "2018-08-07",
+                "floor": 6,
+                "content": "现在赚钱的App 都不用上App Store 了，有个企业账号即可。 "
+            },
+            {
+                "avatar": "https://bbs-uc.d.163.com/avatar.php?uid=2695655&size=small",
+                "name": "侠客不带刀",
+                "time": "2018-08-07",
+                "floor": 7,
+                "content": "打不死的小强的 ",
+                "leader_name": "SkyHarute",
+                "leader_uri": "",
+                "comments_num": 97,
+                "comments_uri": ""
+            }
+        ]
+    }
+}

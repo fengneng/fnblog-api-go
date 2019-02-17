@@ -1,0 +1,124 @@
+{
+    "message": "",
+    "code": 0,
+    "data": {
+        "items": [
+            {
+                "title": "综合讨论",
+                "items": [
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    }
+                ]
+            },
+            {
+                "title": "林业",
+                "items": [
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    }
+                ]
+            },
+            {
+                "title": "百草种植",
+                "items": [
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    }
+                ]
+            },
+            {
+                "title": "畜牧养殖",
+                "items": [
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    },
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    }
+                ]
+            },
+            {
+                "title": "天空渔场",
+                "items": [
+                    {
+                        "icon": "maitian",
+                        "title": "新大北山",
+                        "subtitle": "动物综合讨论",
+                        "badge": 611,
+                        "uri": "CDChannelDetailVC/分享"
+                    }
+                ]
+            }
+        ]
+    }
+}
